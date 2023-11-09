@@ -1,0 +1,11 @@
+Glazov,Viktor,+78888888888
+Pronin,Sergey,88888888888
+Trybar,Vasilia,8-900-44-444-77
+Trunov,Nikola,89996666666
+Ivanov,Alex,8-999-888-7777
+Andropova,Viktoria,+7-777-77-777-77
+Gaitunov,Alex,8-900-55-555-55
+Skripkin,Stanislav,8-900-32-659-87
+Abramov,Konstantin,+71245457574
+Lecar,Maksim,8-888-77-666-55
+
